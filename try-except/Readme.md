@@ -4,6 +4,7 @@ Kulanıcı rastgele seçilen sayıyı tahmin etmeye çalışır.
 Hatalı girişlere karşı 'try-except' yapısı ile hata yakalama eklendi.
 Kullanılan modul:'random'
 Amaç: Hatalı kullanıcı girişlerine karşı programıb çökmesini engellemek.
+
 ENGLISH(ENG)
 Week 4 - Number Guessing Game (Debugging Practice)
 The user tries to guess a randomly selected number.
