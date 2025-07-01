@@ -14,6 +14,7 @@ Amacım, her hafta küçük uygulamalarla gelişimimi belgelemek ve pratik yapma
 | 2 | Kütüphane | Kitap bilgilerini sözlük yapısıyla yönetme |
 | 3 | Günlük | Dosya okuma ve yazma işlemleri ile günlük tutma |
 | 4 | Sayı Tahmin Oyunu | `try-except` ile hata ayıklama, `random` modülü kullanımı |
+| 5 | Otomatik Zaman Damgalı Yedekleme Ve Zipleme | Modul kullanımı ile dosya yedekleme |
 
 ## 🎯 Hedef
 
@@ -36,6 +37,7 @@ My goal is to improve consistently by building small practical projects every we
 | 2 | Library App | Managing book data using dictionaries |
 | 3 | Daily Log | Writing and reading text files like a diary |
 | 4 | Number Guess Game | Error handling with `try-except` and random number generation |
+| 5 | Automatic Timestamped Backup and Zip | File backup with the use of modules |
 
 ## 🎯 Goal
 
