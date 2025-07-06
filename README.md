@@ -9,12 +9,13 @@ Amacım, her hafta küçük uygulamalarla gelişimimi belgelemek ve pratik yapma
 
 | Hafta | Konu | Açıklama |
 |-------|------|----------|
-| 0 | Hesap Makinesi | Dört işlem yapan giriş düzeyi bir uygulama |
-| 1 | Alışveriş Listesi | Listeler ve fonksiyonlar ile basit bir uygulama |
-| 2 | Kütüphane | Kitap bilgilerini sözlük yapısıyla yönetme |
-| 3 | Günlük | Dosya okuma ve yazma işlemleri ile günlük tutma |
-| 4 | Sayı Tahmin Oyunu | `try-except` ile hata ayıklama, `random` modülü kullanımı |
-| 5 | Otomatik Zaman Damgalı Yedekleme Ve Zipleme | Modul kullanımı ile dosya yedekleme |
+| 1 | Hesap Makinesi | Dört işlem yapan giriş düzeyi bir uygulama |
+| 2 | Alışveriş Listesi | Listeler ve fonksiyonlar ile basit bir uygulama |
+| 3 | Kütüphane | Kitap bilgilerini sözlük yapısıyla yönetme |
+| 4 | Günlük | Dosya okuma ve yazma işlemleri ile günlük tutma |
+| 5 | Sayı Tahmin Oyunu | `try-except` ile hata ayıklama, `random` modülü kullanımı |
+| 6 | Otomatik Zaman Damgalı Yedekleme Ve Zipleme | Modul kullanımı ile dosya yedekleme |
+| 7 | Belirli sayıları filtreledikten sonra karesinin toplamlarını alma |
 
 ## 🎯 Hedef
 
@@ -32,13 +33,13 @@ My goal is to improve consistently by building small practical projects every we
 
 | Week | Topic | Description |
 |------|-------|-------------|
-| 0 | Calculator | A basic calculator performing four operations |
-| 1 | Shopping List | A simple app using lists and functions |
-| 2 | Library App | Managing book data using dictionaries |
-| 3 | Daily Log | Writing and reading text files like a diary |
-| 4 | Number Guess Game | Error handling with `try-except` and random number generation |
-| 5 | Automatic Timestamped Backup and Zip | File backup with the use of modules |
-
+| 1 | Calculator | A basic calculator performing four operations |
+| 2 | Shopping List | A simple app using lists and functions |
+| 3 | Library App | Managing book data using dictionaries |
+| 4 | Daily Log | Writing and reading text files like a diary |
+| 5 | Number Guess Game | Error handling with `try-except` and random number generation |
+| 6 | Automatic Timestamped Backup and Zip | File backup with the use of modules |
+| 7 | Get sums of squared sums after filtering certain numbers |
 ## 🎯 Goal
 
 🧠 Build while learning.  
