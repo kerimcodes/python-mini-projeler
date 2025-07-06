@@ -15,7 +15,7 @@ Amacım, her hafta küçük uygulamalarla gelişimimi belgelemek ve pratik yapma
 | 4 | Günlük | Dosya okuma ve yazma işlemleri ile günlük tutma |
 | 5 | Sayı Tahmin Oyunu | `try-except` ile hata ayıklama, `random` modülü kullanımı |
 | 6 | Otomatik Zaman Damgalı Yedekleme Ve Zipleme | Modul kullanımı ile dosya yedekleme |
-| 7 | Belirli sayıları filtreledikten sonra karesinin toplamlarını alma |
+| 7 | Sayı Fİltreleyip Toplama | Belirli sayıları filtreledikten sonra karesinin toplamlarını alma |
 
 ## 🎯 Hedef
 
@@ -39,7 +39,7 @@ My goal is to improve consistently by building small practical projects every we
 | 4 | Daily Log | Writing and reading text files like a diary |
 | 5 | Number Guess Game | Error handling with `try-except` and random number generation |
 | 6 | Automatic Timestamped Backup and Zip | File backup with the use of modules |
-| 7 | Get sums of squared sums after filtering certain numbers |
+| 7 | Number Filter and Add | Get sums of squared sums after filtering certain numbers |
 ## 🎯 Goal
 
 🧠 Build while learning.  
