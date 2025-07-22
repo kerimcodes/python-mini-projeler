@@ -15,8 +15,10 @@ Amacım, her hafta küçük uygulamalarla gelişimimi belgelemek ve pratik yapma
 | 4 | Günlük | Dosya okuma ve yazma işlemleri ile günlük tutma |
 | 5 | Sayı Tahmin Oyunu | `try-except` ile hata ayıklama, `random` modülü kullanımı |
 | 6 | Otomatik Zaman Damgalı Yedekleme Ve Zipleme | Modul kullanımı ile dosya yedekleme |
-| 7 |Sayı Fİltreleyip Toplama | Belirli sayıları filtreledikten sonra karesinin toplamlarını alma |
-| 8 |Yardımcı Fonksiyon KÜtüphanesi | Fonksiyon oluşturup başka dosyada import etme |
+| 7 | Sayı Fİltreleyip Toplama | Belirli sayıları filtreledikten sonra karesinin toplamlarını alma |
+| 8 | Yardımcı Fonksiyon Kütüphanesi | Fonksiyon oluşturup başka dosyada import etme |
+| 9 | Araba classı oluşturma | Araba classı oluşturup class üzerinden nesneler üretme |
+|10 | Öğrenci notları takip etme,ortalama hesaplama | Class üzerinde nesne üretip veri yapı kullanma |  
 
 ## 🎯 Hedef
 
@@ -40,8 +42,10 @@ My goal is to improve consistently by building small practical projects every we
 | 4 | Daily Log | Writing and reading text files like a diary |
 | 5 | Number Guess Game | Error handling with `try-except` and random number generation |
 | 6 | Automatic Timestamped Backup and Zip | File backup with the use of modules |
-| 7 |  Number Filter and Add | Get sums of squared sums after filtering certain numbers |
+| 7 | Number Filter and Add | Get sums of squared sums after filtering certain numbers |
 | 8 | Utility Function Library | Create a function and import it in another file |
+| 9 | Creating a car class | Creating a car class and generating objects over the class |
+| 10| Tracking student grades, average calculation | Generating objects on class and using data structure |
 
 ## 🎯 Goal
 
