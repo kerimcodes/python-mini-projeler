@@ -19,7 +19,7 @@ Amacım, her hafta küçük uygulamalarla gelişimimi belgelemek ve pratik yapma
 | 8 | Yardımcı Fonksiyon Kütüphanesi | Fonksiyon oluşturup başka dosyada import etme |
 | 9 | Araba classı oluşturma | Araba classı oluşturup class üzerinden nesneler üretme |
 |10 | Öğrenci notları takip etme,ortalama hesaplama | Class üzerinde nesne üretip veri yapı kullanma |  
-
+|11 | Kuşları alt türlere ayırma | Class üzerinde inheritance kullanımı 
 ## 🎯 Hedef
 
 🧠 Öğrenirken üretmek.  
@@ -46,6 +46,7 @@ My goal is to improve consistently by building small practical projects every we
 | 8 | Utility Function Library | Create a function and import it in another file |
 | 9 | Creating a car class | Creating a car class and generating objects over the class |
 | 10| Tracking student grades, average calculation | Generating objects on class and using data structure |
+|11 | Subdividing birds into subspecies | Using inheritance on class |
 
 ## 🎯 Goal
 
