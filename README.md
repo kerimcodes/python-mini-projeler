@@ -22,6 +22,7 @@ Amacım, her hafta küçük uygulamalarla gelişimimi belgelemek ve pratik yapma
 |11 | Kuşları alt türlere ayırma | Class üzerinde inheritance kullanımı |
 |12 | Kitaplara dosya üzerinde işlem yapma | Classtaki nesneleri dosyaya ekleyip işlem yapma |
 |13 | Kullanıcılara ait görev sayısı hesaplama | Temel veri çekme | 
+|14 | Alışveriş Listesi | Arayüz üzerinden liste oluşturma |
 
 ## 🎯 Hedef
 
@@ -52,6 +53,7 @@ My goal is to improve consistently by building small practical projects every we
 |11 | Subdividing birds into subspecies | Using inheritance on class |
 |12 | Making operations on the file to books | Adding objects in the class to the file and making operations |
 |13 | Calculating the number of tasks belonging to users | Basic data extraction |
+|14 | Shopping List | Creating a list via the interface |
 
 ## 🎯 Goal
 
