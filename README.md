@@ -23,6 +23,7 @@ Amacım, her hafta küçük uygulamalarla gelişimimi belgelemek ve pratik yapma
 |12 | Kitaplara dosya üzerinde işlem yapma | Classtaki nesneleri dosyaya ekleyip işlem yapma |
 |13 | Kullanıcılara ait görev sayısı hesaplama | Temel veri çekme | 
 |14 | Alışveriş Listesi | Arayüz üzerinden liste oluşturma |
+|15 | Şekil çarpıştırma | Tkinterde bind kullanımı |
 
 ## 🎯 Hedef
 
@@ -54,6 +55,7 @@ My goal is to improve consistently by building small practical projects every we
 |12 | Making operations on the file to books | Adding objects in the class to the file and making operations |
 |13 | Calculating the number of tasks belonging to users | Basic data extraction |
 |14 | Shopping List | Creating a list via the interface |
+|15 | Shape collision | Using bind in Tkinter |
 
 ## 🎯 Goal
 
