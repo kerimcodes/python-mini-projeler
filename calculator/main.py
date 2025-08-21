@@ -5,7 +5,7 @@ def equal():
     try:
         result = eval(entry.get())
         entry.delete(0, tk.END)
-        entry.insert(tk.END, f"{result}")
+        entry.insert(tk.END,result)
     except ZeroDivisionError:
         entry.delete(0, tk.END)
         entry.insert(0, "Error: division by 0")
