@@ -25,6 +25,7 @@ Amacım, her hafta küçük uygulamalarla gelişimimi belgelemek ve pratik yapma
 |14 | Alışveriş Listesi | Arayüz üzerinden liste oluşturma |
 |15 | Şekil çarpıştırma | Tkinterde bind kullanımı |
 |16 | Hesap Makinesi | Tkinterde fonksiyon kullanımı |
+|17 | Kitap Listesi | Tkinterde dosya işlemleri |
 
 ## 🎯 Hedef
 
@@ -51,14 +52,14 @@ My goal is to improve consistently by building small practical projects every we
 | 7 | Number Filter and Add | Get sums of squared sums after filtering certain numbers |
 | 8 | Utility Function Library | Create a function and import it in another file |
 | 9 | Creating a car class | Creating a car class and generating objects over the class |
-| 10| Tracking student grades, average calculation | Generating objects on class and using data structure |
+|10| Tracking student grades, average calculation | Generating objects on class and using data structure |
 |11 | Subdividing birds into subspecies | Using inheritance on class |
 |12 | Making operations on the file to books | Adding objects in the class to the file and making operations |
 |13 | Calculating the number of tasks belonging to users | Basic data extraction |
 |14 | Shopping List | Creating a list via the interface |
 |15 | Shape collision | Using bind in Tkinter |
 |16 | Calculator | Using fonction in tkinter |
-
+|17 | Book List | File operations in tkinter | 
 ## 🎯 Goal
 
 🧠 Build while learning.  
@@ -68,6 +69,3 @@ Building focused, small projects every week helps me strengthen my knowledge and
 
 GitHub: [kerimcodes](https://github.com/kerimcodes)  
 LinkedIn: [linkedin.com/in/kerim-erduran-69877136b](https://www.linkedin.com/in/kerim-erduran-69877136b/)
-
-
-
