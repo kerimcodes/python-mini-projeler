@@ -2,14 +2,14 @@ import tkinter as tk
 from tkinter import ttk,messagebox 
 import json
 
-dosya = "book.json"
+file = "book.json"
 
 def listing():
     for item in tree.get_children():
         tree.delete(item)
 
     try:
-        with open(dosya,"r",encoding="utf-8") as tobe_read:
+        with open(file,"r",encoding="utf-8") as tobe_read:
             book_ = json.load(tobe_read)
             for book in book_:
                 tree.insert("","end",values=(book["Title"],book["Author"],book["Year"]))
@@ -19,14 +19,14 @@ def listing():
 
 def add_book(new_book):
     try:
-        with open(dosya,"r",encoding="utf-8") as tobe_written:
+        with open(file,"r",encoding="utf-8") as tobe_written:
             book_ = json.load(tobe_written)
     except (FileNotFoundError,json.decoder.JSONDecodeError):
         book_ = []
 
     book_.append(new_book)
 
-    with open(dosya,"w",encoding="utf-8") as tobe_read:
+    with open(file,"w",encoding="utf-8") as tobe_read:
         json.dump(book_,tobe_read,ensure_ascii=False,indent=2)
 
     listing()
@@ -46,7 +46,7 @@ def save_book():
 
 def delete_book():
     try: 
-        with open(dosya,"r",encoding="utf-8") as tobe_read:
+        with open(file,"r",encoding="utf-8") as tobe_read:
             book_ = json.load(tobe_read)
     except (FileNotFoundError,json.decoder.JSONDecodeError):
         messagebox.showerror("Error","File is empty")
@@ -67,7 +67,7 @@ def delete_book():
                     break
 
         if found:
-            with open(dosya,"w",encoding="utf-8") as f:
+            with open(file,"w",encoding="utf-8") as f:
                 json.dump(book_,f,ensure_ascii=False,indent=2)
             listing()
             title_entry.delete(0,tk.END)
@@ -97,7 +97,7 @@ def update_book():
         return
 
     try:
-        with open(dosya,"r",encoding="utf-8") as f:
+        with open(file,"r",encoding="utf-8") as f:
             book_ = json.load(f)
     except (FileNotFoundError,json.decoder.JSONDecodeError):
         messagebox.showerror("Error","File is empty")
@@ -121,7 +121,7 @@ def update_book():
 
     book_.append({"Title":title,"Author":author,"Year":int(year)})
 
-    with open(dosya,"w",encoding="utf-8") as f:
+    with open(file,"w",encoding="utf-8") as f:
         json.dump(book_,f,ensure_ascii=False,indent=2)
 
     listing()
