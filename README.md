@@ -57,7 +57,7 @@ My goal is to improve consistently by building small practical projects every we
 |13 | Calculating the number of tasks belonging to users | Basic data extraction |
 |14 | Shopping List | Creating a list via the interface |
 |15 | Shape collision | Using bind in Tkinter |
-|16  Calculator | Using fonction in tkinter |
+|16 | Calculator | Using fonction in tkinter |
 
 ## 🎯 Goal
 
